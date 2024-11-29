@@ -1,0 +1,22 @@
+.input-phone{
+    
+    margin-top: 0.5rem;
+    height: 2.75rem;
+    border-radius: 0.375rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    font-size: 0.875rem;
+    border: 1px solid #363A3D;
+    background-color: #1A1D21;
+    color: #cad5e7; 
+}
+
+
+.input-phone::placeholder {
+    color: #363A3D;
+    width: 100%;
+    /* Replace with the exact value for placeholder:text-dark-600 */
+}
+
+
+          /* 600: "#76828D", */
